@@ -22,7 +22,7 @@ It’s part of a set of network protocol experiments (alongside an HTTP file ser
 - `genfiles.sh` — script to generate sample files  
 - `requirements.txt` — dependencies (e.g. pytest, numpy for testing)  
 - `bm222ia_mh224tb_assign3.pdf` — project report  
-- `ReadMe.txt` — original course submission notes  
+
 
 ---
 
